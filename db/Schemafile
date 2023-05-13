@@ -1,1 +1,2 @@
 require 'schemas/tank.schema'
+require 'schemas/water_temperature.schema'
