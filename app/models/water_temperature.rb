@@ -1,2 +1,0 @@
-class WaterTemperature < ApplicationRecord
-end

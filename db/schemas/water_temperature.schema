@@ -1,7 +1,0 @@
-#encoding: utf-8
-
-create_table "water_temperatures", id: :bigint, unsigned: true, force: :cascade do |t|
-  t.float "temperature", default: 0, null: false, unique: true
-  t.datetime "updated_at", precision: 6, null: false
-  t.datetime "created_at", precision: 6, null: false
-end
